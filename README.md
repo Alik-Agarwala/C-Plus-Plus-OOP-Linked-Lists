@@ -6,6 +6,6 @@ This repository contains `object-oriented` implementations of various linked lis
 - `Singly Circular Linked List`: An implementation of a singly linked list where the last node points back to the first node, creating a circular structure.
 - `Doubly Linked List`: An implementation of a doubly linked list, where each node has pointers to both the previous and next nodes.
 
-- <!-- Authors -->
+<!-- Authors -->
 ## Contributors
 <a href="https://github.com/Alik-Agarwala/C-Plus-Plus-OOP-Linked-Lists/contributors"><img src="https://contrib.rocks/image?repo=Alik-Agarwala/C-Plus-Plus-OOP-Linked-Lists"></a>
